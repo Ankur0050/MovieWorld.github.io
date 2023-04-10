@@ -1,0 +1,2027 @@
+/* -------------------------------------FOR BANNER------------------------------------------- */
+
+
+
+
+
+@media (min-width:200px) and (max-width:320px) {
+    .nav .mainMenu{
+        background-color: rgb(22, 22, 22);
+   
+        top: 0;
+        width: 243px;
+        height: 270px;
+        padding-top: 2rem;
+        padding: 0;
+        left: 76px;
+        }
+        nav .mainMenu li a{
+            font-size: 13px;
+        }
+        nav .mainMenu .closeMenu{
+            top: 4px;
+        }
+    .nav {
+        width: 320px;
+        padding-top: -20rem;
+        height: 79px;
+        margin: 0%;
+        display: block;
+        flex-direction: column;
+        padding: 0;
+        padding-top: 1px;
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .logo1 {
+        height: 31px;
+        width: 149px;
+    }
+
+    .extra {
+        display: flex;
+        justify-items: baseline;
+        justify-content: center;
+        padding: 0;
+        width: 320px;
+        padding: 0%;
+        margin: 0;
+        padding-right: 0;
+        height: 29px;
+    }
+
+    .search {
+        height: 30px;
+        width: 150px;
+        margin-left: 0.5rem;
+    }
+
+    .img {
+        height: 20px;
+        padding-top: 7px;
+        padding-left: 9px;
+    }
+
+    .search1 {
+        height: 27px;
+        font-size: 0.6rem;
+        width: 150px;
+        padding-left: 22px;
+        border-radius: 0.4rem;
+    }
+
+    .opneMenu {
+        padding: 0;
+        margin: 0;
+        margin-top: -0.6rem;
+    }
+
+    .fa {
+        font-size: 1.2rem;
+    }
+
+    .slider1 {
+        height: 180px;
+        width: 320px;
+
+    }
+
+    .banner {
+        height: 180px;
+        margin: 0 0;
+    }
+
+    .list-movie {
+        width: 320px;
+    }
+
+    .container-main {
+        padding-left: 4px;
+        padding-right: 4px;
+        padding-top: 24px;
+    }
+
+    .container-main2 {
+        padding-left: 4px;
+        padding-right: 4px;
+        padding-top: 34px;
+    }
+
+    .label {
+        font-size: 0.7rem;
+        padding-left: 4px;
+    }
+
+    .label1 {
+        width: 312px;
+    }
+
+    .link1 {
+        font-size: 0.5rem;
+    }
+
+    .main1 {
+        padding: 0;
+        padding-right: 4px;
+    }
+
+    .main2 {
+        width: 5rem;
+        margin: 0;
+    }
+
+    .main3 {
+        margin: 0;
+        width: 5rem;
+    }
+
+    .img2 {
+        width: 5rem;
+    }
+
+    .img3 {
+        width: 5rem;
+    }
+
+    .a3 {
+        font-size: 0.6rem;
+    }
+
+    .cell {
+        height: 143px;
+    }
+
+    .flickity-prev-next-button.previous {
+        left: 4px;
+    }
+
+    .swiper-button-prev:after {
+        font-size: 20px;
+    }
+
+    :root {
+        --swiper-navigation-size: 14px;
+    }
+
+    .swiper-pagination {
+        display: none;
+    }
+
+    .footer {
+        width: 320px;
+        height: 638px;
+    }
+
+    .container3 {
+        width: 304px;
+        height: 710px;
+        padding: 0;
+    }
+
+    .container4 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .logo-section {
+        width: 304px;
+        gap: 13px;
+        height: 155px;
+        margin: 0;
+    }
+
+    .company-logo-icon {
+        width: 131px;
+        margin: 0;
+        height: 31px;
+        padding: 0;
+    }
+
+    .social-media-section {
+        width: 304px;
+    }
+
+    .generate-outside-the {
+        width: 304px;
+        font-size: 13px;
+        line-height: 18px;
+        margin: 0;
+    }
+
+    .social-icons {
+        gap: 51px;
+        width: 304px;
+        margin: 0 23px;
+    }
+
+    .social-platforms-logo {
+        height: 18px;
+        width: 18px;
+    }
+
+    .links-colum {
+        width: 152px;
+        margin: 0;
+        padding: 0;
+      padding-top: 20px;    }
+
+    .features2 {
+        line-height: 20px;
+        
+
+    }
+
+    .links-colum1 {
+        width: 152px;
+        margin: 0;
+        padding: 0;
+        padding-top: 20px; 
+    }
+
+    .links-colum2 {
+        width: 152px;
+        margin: 0;
+        padding: 0;
+        padding-top: 20px; 
+    }
+
+    .footer-links {
+        line-height: 24px;
+        font-weight: 600;
+        font-size: 13px;
+        
+    }
+
+    .vertical-container {
+        font-size: 13px;
+        
+    }
+
+    .link {
+        line-height: 18px;
+    }
+
+    .horizontal-container2 {
+        width: 308px;
+    }
+
+    .lookscout-all-rights {
+        line-height: 18px;
+        font-size: 13px;
+    }
+    nav .mainMenu{
+        width: 320px;
+        height: 276px;
+        padding-top: 50px;
+    }
+    nav .mainMenu li a{
+font-size: 12px;
+padding:6px 0 ;
+    }
+}
+@media (min-width:321px) and (max-width:375px) {
+    .nav .mainMenu{
+        background-color: rgb(22, 22, 22);
+        
+        top: 0;
+        width: 243px;
+        height: 270px;
+        padding-top: 3rem;
+        padding: 0;
+        left: 110px;
+        }
+        .nav .mainMenu li a{
+            font-size: 13px;
+        }
+        .nav .mainMenu .closeMenu{
+            top: 3px;
+        }
+    .nav {
+        width: 22.063rem;
+        
+        height: 6.125rem;
+        margin: 0%;
+        display: block;
+        flex-direction: column;
+        padding: 0;
+        padding-top: 1px;
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .logo1 {
+        height: 2.5rem;
+        width:10.125rem;
+    }
+
+    .extra {
+        display: flex;
+        justify-items: baseline;
+        justify-content: center;
+        padding: 0;
+        width: 22.063rem;
+        padding: 0%;
+        margin: 0;
+        height: 2.313rem;
+    }
+
+    .search {
+        height: 2rem;
+        width: 10.063rem;
+        margin-left: 0.5rem;
+    }
+
+    .img {
+        height: 1.5rem;
+        padding-top: 0.563rem;
+    }
+
+    .search1 {
+        height: 2.188rem;
+        font-size: 0.7rem;
+        width: 14.25rem;
+        padding-left: 1.688rem;
+        border-radius: 0.4rem;
+    }
+
+    .opneMenu {
+        margin-top: 3px;
+        
+    }
+
+    .fa {
+
+        font-size: 1.5rem;
+    }
+
+    .slider1 {
+        height: 13.188rem;
+        width: 22.063rem;
+
+    }
+
+    .banner {
+        height: 12.375rem;
+        margin: 0 0;
+    }
+
+    .list-movie {
+        width: 22.063rem;
+    }
+
+    .container-main {
+        padding-left: 4px;
+        padding-right: 4px;
+        padding-top: 1.5rem;
+    }
+
+    .container-main2 {
+        padding-left: 4px;
+        padding-right: 4px;
+        padding-top: 2.125rem;
+    }
+
+    .label {
+        font-size: 1rem;
+        padding-left: 4px;
+    }
+
+    .label1 {
+        width: 21.75rem;
+
+    }
+
+    .link1 {
+        font-size: 0.7rem;
+    }
+
+    .main1 {
+        padding: 0;
+        padding-right: 4px;
+    }
+
+    .main2 {
+        width: 7rem;
+        margin: 0;
+        margin-left: 5px;
+    }
+
+    .main3 {
+        margin: 0;
+        margin-left: 14px;
+        width: 7rem;
+    }
+
+    .img2 {
+        width: 7rem;
+    }
+
+    .img3 {
+        width: 7rem;
+    }
+
+    .a3 {
+        font-size: 0.9rem;
+    }
+
+    .cell {
+        height: 13.625rem;
+    }
+
+    .flickity-prev-next-button.previous {
+        left: 4px;
+    }
+    .flickity-prev-next-button.previous:hover {
+        left: 4px;
+    }
+    .flickity-prev-next-button.next {
+        right: 4px;
+    }
+    .flickity-prev-next-button.next:hover {
+        right: 4px;
+    }
+
+    .swiper-button-prev:after {
+        font-size: 20px;
+    }
+
+    :root {
+        --swiper-navigation-size: 14px;
+    }
+
+    .swiper-pagination {
+        display: none;
+    }
+
+    .footer {
+        width: 22.063rem;
+        height: 46.75rem;
+    }
+
+    .container3 {
+        width: 21.25rem;
+        height: 44.375rem;
+        padding: 0;
+    }
+
+    .container4 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .logo-section {
+        width: 21.25rem;
+        height: 9.688rem;
+        margin: 0;
+    }
+
+    .company-logo-icon {
+        width: 10rem;
+        margin: 0;
+        height: 2.438rem;
+        padding: 0;
+    }
+
+    .social-media-section {
+        width: 21.25rem;
+    }
+
+    .generate-outside-the {
+        width: 21.25rem;
+        font-size: 1rem;
+        line-height: 1.5rem;
+        margin: 0;
+    }
+
+    .social-icons {
+        gap: 3.188rem;
+        width: 21.25rem;
+        margin: 0 1.438rem;
+    }
+
+    .social-platforms-logo {
+        height: 1.5rem;
+        width: 1.5rem;
+    }
+
+    .links-colum {
+        width: 9.5rem;
+        margin: 0;
+        padding: 0;
+      padding-top: 1.25rem;    }
+
+    .features2 {
+        line-height: 1.5rem;
+        
+
+    }
+
+    .links-colum1 {
+        width: 9.5rem;
+        margin: 0;
+        padding: 0;
+        padding-top: 1.25rem; 
+    }
+
+    .links-colum2 {
+        width: 9.5rem;
+        margin: 0;
+        padding: 0;
+        padding-top: 1.25rem; 
+    }
+
+    .footer-links {
+        line-height: 1.5rem;
+        font-weight: 600;
+        font-size: 1rem;
+        
+    }
+
+    .vertical-container {
+        font-size: 1rem;
+        
+    }
+
+    .link {
+        line-height: 1.5rem;
+    }
+
+    .horizontal-container2 {
+        width: 21.25rem;
+    }
+
+    .lookscout-all-rights {
+        line-height: 1.5rem;
+        font-size: 1rem;
+    }
+    nav .mainMenu{
+        width: 23.438rem;
+        height: 17.25rem;
+        padding-top: 3.125rem;
+    }
+    nav .mainMenu li a{
+font-size: 12px;
+padding:6px 0 ;
+    }
+    
+    
+}
+
+@media (min-width:376px) and (max-width:425px) {
+    :root {
+        --swiper-navigation-size: 21px;
+    }
+
+
+
+    .nav .mainMenu{
+        background-color: rgb(22, 22, 22);
+      
+        top: 0;
+        width: 408px;
+        height: 345px;
+        margin-top: 0rem;
+        
+        left: 0px;
+        }
+        .nav .mainMenu li a{
+            font-size: 17px;
+        }
+       
+    .nav {
+        width: 410px;
+      
+        height: 98px;
+        margin: 0%;
+        display: block;
+        flex-direction: column;
+        padding: 0;
+        padding-top: 1px;
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .logo1 {
+        height: 40px;
+        width:162px;
+    }
+
+    .extra {
+        display: flex;
+        justify-items: baseline;
+        justify-content: center;
+        padding: 0;
+        width: 410px;
+        padding: 0%;
+        margin: 0;
+        height: 37px;
+    }
+
+    .search {
+        height: 32px;
+        width: 161px;
+        margin-left: 0.5rem;
+    }
+
+    .img {
+        height: 24px;
+        padding-top: 9px;
+    }
+
+    .search1 {
+        height: 35px;
+        font-size: 0.7rem;
+        width: 228px;
+        padding-left: 27px;
+        border-radius: 0.4rem;
+    }
+
+    .opneMenu {
+        margin-top: 3px;
+        
+    }
+
+    .fa {
+
+        font-size: 1.5rem;
+    }
+
+    .slider1 {
+        height: 239px;
+        width: 410px;
+
+    }
+
+    .banner {
+        height: 230px;
+        margin: 0 0;
+    }
+    nav .mainMenu{
+        width: 410px;
+        height: 276px;
+        padding-top: 50px;
+    }
+    nav .mainMenu li a{
+font-size: 12px;
+padding:6px 0 ;
+    }
+    .list-movie{
+        width: 410px;
+    }
+    .container-main{
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 1.5rem;
+    }
+    .container-main2{
+        padding-left: 0;
+        padding-top: 1.5rem;
+        padding-right: 0;
+    }
+    .label1{
+        width: 402px;
+    }
+    .label{
+        font-size: 1.1rem;
+    }
+    .link1{
+        font-size: 0.8rem;
+    }
+    .cell{
+        height: 229px;
+    }
+    .main2{
+        width: 7rem;
+    }
+    .main3{
+        width: 7rem;
+    }
+    .img2{
+        width: 7rem;
+    }
+    .img3{
+        width: 7rem;
+    }
+    .a3{
+        font-size: 0.9rem;
+    }
+    .footer{
+        width: 410px;
+        height: 773px;
+    }
+    .container3{
+        width: 400px;
+        padding: 0 14px;
+    }
+    .container4{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .logo-section{
+        width: 401px;
+    }
+    .generate-outside-the{
+        width: 395px;
+    }
+    .social-icons{
+        gap: 66px;
+        margin-left: 38px;
+    }
+    .links-colum{
+        padding-top: 20px;
+        width: 180px;
+    }
+    .links-colum1{
+        padding-top: 20px;
+        width: 180px;
+        margin-right: 0;
+    }
+    .links-colum2{
+        padding-top: 20px;
+        width: 180px;
+    }
+    .horizontal-container2{
+        width: 410px;
+    }
+    .lookscout-all-rights{
+        width: 391px;
+    }
+    html{
+        width: 410px;
+    }
+    body{
+        width: 410px;
+    }
+
+}
+
+@media (min-width:426px) and (max-width:567px) {
+    :root {
+        --swiper-navigation-size: 21px;
+    }
+    .nav .mainMenu{
+        background-color: rgb(22, 22, 22);
+      
+        top: 0;
+        /* width: 408px; */
+        height: 374px;
+        margin-top: 0rem;
+        
+        left: 0px;
+        }
+        .nav .mainMenu li a{
+            font-size: 17px;
+        }
+    .nav {
+        width: 34.375rem;
+        /* padding-top: -20rem; */
+        height: 98px;
+        margin: 0%;
+        display: block;
+        flex-direction: column;
+        padding: 0;
+        padding-top: 1px;
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .logo1 {
+        height: 40px;
+        width:162px;
+    }
+
+    .extra {
+        display: flex;
+        justify-items: baseline;
+        justify-content: center;
+        padding: 0;
+        width: 34.375rem;
+        padding: 0%;
+        margin: 0;
+        height: 37px;
+    }
+
+    .search {
+        height: 32px;
+        width: 161px;
+        margin-left: 0.5rem;
+    }
+
+    .img {
+        height: 24px;
+        padding-top: 9px;
+    }
+
+    .search1 {
+        height: 35px;
+        font-size: 0.7rem;
+        width: 228px;
+        padding-left: 27px;
+        border-radius: 0.4rem;
+    }
+
+    .opneMenu {
+        margin-top: 3px;
+        
+    }
+
+    .fa {
+
+        font-size: 1.5rem;
+    }
+
+    .slider1 {
+        height: 310px;
+        width:34.375rem;
+
+    }
+
+    .banner {
+        height: 310px;
+        margin: 0 0;
+    }
+    nav .mainMenu{
+        width: 550px;
+        height: 276px;
+        padding-top: 50px;
+    }
+    nav .mainMenu li a{
+font-size: 12px;
+padding:6px 0 ;
+    }
+    .list-movie{
+        width: 550px;
+    }
+    .container-main{
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 1.5rem;
+    }
+    .container-main2{
+        padding-left: 0;
+        padding-top: 1.5rem;
+        padding-right: 0;
+    }
+    .label1{
+        width: 540px;
+    }
+    .label{
+        font-size: 1.1rem;
+    }
+    .link1{
+        font-size: 0.8rem;
+    }
+    .cell{
+        height: 229px;
+    }
+    .main2{
+        width: 7rem;
+    }
+    .main3{
+        width: 7rem;
+    }
+    .img2{
+        width: 7rem;
+    }
+    .img3{
+        width: 7rem;
+    }
+    .a3{
+        font-size: 0.9rem;
+    }
+    .footer{
+        width: 550px;
+        height: 773px;
+    }
+    .container3{
+        width: 550px;
+        padding: 0 14px;
+    }
+    .container4{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .logo-section{
+        width:550px;
+    }
+    .generate-outside-the{
+        width: 550px;
+    }
+    .social-icons{
+        gap: 66px;
+        margin-left: 38px;
+    }
+    .links-colum{
+        padding-top: 20px;
+        width: 180px;
+    }
+    .links-colum1{
+        padding-top: 20px;
+        width: 180px;
+        margin-right: 0;
+    }
+    .links-colum2{
+        padding-top: 20px;
+        width: 180px;
+    }
+    .horizontal-container2{
+        width: 550px;
+    }
+    .lookscout-all-rights{
+        width: 391px;
+    }
+    html{
+        width: 550px;
+    }
+    body{
+        width: 550px;
+    }
+
+}
+
+@media (min-width:568px) and (max-width:677px) {
+    :root {
+        --swiper-navigation-size: 30px;
+    }
+    .nav .mainMenu{
+        background-color: rgb(22, 22, 22);
+        
+        top: 0;
+        /* width: 408px; */
+        height: 345px;
+        margin-top: 0rem;
+        
+        left: 0px;
+        }
+        .nav .mainMenu li a{
+            font-size: 17px;
+        }
+    .nav {
+        width: 41.25rem;
+        height: 6.125rem;
+        margin: 0%;
+        display: block;
+        flex-direction: column;
+        padding: 0;
+        padding-top: 1px;
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .logo1 {
+        height: 2.5rem;
+        width:10.125rem;
+    }
+
+    .extra {
+        display: flex;
+        justify-items: baseline;
+        justify-content: center;
+        padding: 0;
+        width: 41.25rem;
+        padding: 0%;
+        margin: 0;
+        height: 2.313rem;
+    }
+
+    .search {
+        height: 2rem;
+        width: 10.063rem;
+        margin-left: 0.5rem;
+    }
+
+    .img {
+        height: 1.5rem;
+        padding-top: 9px;
+    }
+
+    .search1 {
+        height: 2.188rem;
+        font-size: 0.7rem;
+        width: 14.25rem;
+        padding-left: 1.688;
+        border-radius: 0.4rem;
+    }
+
+    .opneMenu {
+        margin-top: 3px;
+        
+    }
+
+    .fa {
+
+        font-size: 1.5rem;
+    }
+
+    .slider1 {
+        height: 20.2rem;
+        width:41.25rem;
+display: flex;
+justify-content: center;
+    }
+
+    .banner {
+        height: 20.2rem;
+        margin: 0 2.8rem;
+        justify-content: center;
+    }
+    nav .mainMenu{
+        width: 41.25rem;
+        height: 17.25rem;
+        padding-top: 3.125rem;
+    }
+    nav .mainMenu li a{
+font-size: 12px;
+padding:6px 0 ;
+    }
+    .list-movie{
+        width: 41.25rem;
+    }
+    .container-main{
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 1.5rem;
+    }
+    .container-main2{
+        padding-left: 0;
+        padding-top: 1.5rem;
+        padding-right: 0;
+    }
+    .label1{
+        width: 40.313rem;
+    }
+    .label{
+        font-size: 1.1rem;
+    }
+    .link1{
+        font-size: 0.8rem;
+    }
+    .cell{
+        height: 14.313rem;
+    }
+    .main2{
+        width: 7rem;
+    }
+    .main3{
+        width: 7rem;
+    }
+    .img2{
+        width: 7rem;
+    }
+    .img3{
+        width: 7rem;
+    }
+    .a3{
+        font-size: 0.9rem;
+    }
+    .footer{
+        width: 41.25rem;
+        height: 48.313rem;
+    }
+    .container3{
+        width: 40.313rem;
+        padding: 0 0.875rem;
+    }
+    .container4{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .logo-section{
+        width:39rem;
+    }
+    .generate-outside-the{
+        width: 39rem;
+    }
+    .social-icons{
+        gap: 9.12rem;
+        margin-left: 2.375rem;
+    }
+    .links-colum{
+        padding-top: 1.25rem;
+        width: 11.25rem;
+    }
+    .links-colum1{
+        padding-top: 1.25rem;
+        width: 11.25rem;
+        margin-right: 0;
+    }
+    .links-colum2{
+        padding-top: 1.25rem;
+        width: 11.25rem;
+    }
+    .horizontal-container2{
+        width: 39rem;
+    }
+    .lookscout-all-rights{
+        width: 39rem;
+    }
+    html{
+        width: 41.25rem;
+    }
+    body{
+        width: 41.25rem;
+    }
+
+}
+
+@media (min-width:678px) and (max-width:768px) {
+    :root {
+        --swiper-navigation-size: 30px;
+    }
+    .nav .mainMenu{
+        background-color: rgb(22, 22, 22);
+       
+        top: 0;
+        width: 438px;
+        height: 487px;
+        padding-top: 4.5rem;
+        /* padding: 0; */
+        left: 313px;
+        }
+        .nav .mainMenu li a{
+            font-size: 30px;
+        }
+        .nav .mainMenu .closeMenu{
+            top: 3px;
+        }
+    .nav {
+        width: 752px;
+    
+        height: 134px;
+        margin: 0%;
+        display: block;
+        flex-direction: column;
+        padding: 0;
+        padding-top: 1px;
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .logo1 {
+        height: 62px;
+        width:285px;
+    }
+
+    .extra {
+        display: flex;
+        justify-items: baseline;
+        justify-content: center;
+        padding: 0;
+        width: 752px;
+        padding: 0%;
+        margin: 0;
+        height: 54px;
+    }
+
+    .search {
+        height: 53px;
+        width: 363px;
+        margin-left: 1.5rem;
+    }
+
+    .img {
+        height: 36px;
+        padding-top: 10px;
+    }
+
+    .search1 {
+        height: 47px;
+        font-size: 1.4rem;
+        width: 363px;
+        padding-left: 44px;
+        border-radius: 0.6rem;
+    }
+
+    .opneMenu {
+        margin-top: 3px;
+        
+    }
+
+    .fa {
+
+        font-size: 2.5rem;
+    }
+
+    .slider1 {
+        height: 422px;
+        width:752px;
+
+    }
+
+    .banner {
+        height: 422px;
+        margin: 0 0;
+    }
+    nav .mainMenu{
+        width: 752px;
+        height: 276px;
+        padding-top: 50px;
+    }
+    nav .mainMenu li a{
+font-size: 12px;
+padding:6px 0 ;
+    }
+    .list-movie{
+        width: 752px;
+    }
+    .container-main{
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 1.5rem;
+    }
+    .container-main2{
+        padding-left: 0;
+        padding-top: 1.5rem;
+        padding-right: 0;
+    }
+    .label1{
+        width: 740px;
+        
+    }
+    .label{
+        
+        font-size: 1.5rem;
+    }
+    .link1{
+        font-size: 1.1rem;
+    }
+    .cell{
+        height: 303px;
+    }
+    .main2{
+        width: 10rem;
+    }
+    .main3{
+        width: 10rem;
+    }
+    .img2{
+        width: 10rem;
+    }
+    .img3{
+        width: 10rem;
+    }
+    .a3{
+        font-size: 1.4rem;
+    }
+    .footer{
+        width: 752px;
+        height: 496px;
+    }
+    .container3{
+        width: 740px;
+        padding: 0 14px;
+    }
+    .container4{
+        width: 729px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .logo-section{
+        width:730px;
+    }
+    .generate-outside-the{
+        width: 730px;
+    }
+    .social-icons{
+        gap: 66px;
+        margin-left: 38px;
+    }
+    .links-colum{
+        padding-top: 20px;
+        width: 180px;
+    }
+    .links-colum1{
+        padding-top: 20px;
+        width: 180px;
+        margin-right: 0;
+    }
+    .links-colum2{
+        padding-top: 20px;
+        width: 180px;
+    }
+    .horizontal-container2{
+        width: 717px;
+    }
+    .lookscout-all-rights{
+        width: 717px;
+    }
+    html{
+        width: 752px;
+    }
+    body{
+        width: 752px;
+    }
+
+}
+
+@media (min-width:769px) and (max-width:834px) {
+    .nav {
+        width: 817px;
+    
+        height: 200px;
+        margin: 0%;
+        display: block;
+        flex-direction: column;
+        padding: 0;
+        padding-top: 1px;
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .logo1 {
+        height: 62px;
+        width:285px;
+    }
+
+    .extra {
+        /* display: flex; */
+        justify-items: baseline;
+        /* justify-content: center; */
+        padding: 0;
+        width: 817px;
+        padding: 0%;
+        margin: 0;
+        height: 54px;
+    }
+    .nav .mainMenu{
+        margin-left: 5rem;
+        margin-top: 0.5rem;
+    }
+
+    .search {
+        height: 53px;
+        width: 363px;
+        margin-left: 14rem;
+    }
+
+    .img {
+        height: 36px;
+        padding-top: 10px;
+    }
+
+    .search1 {
+        height: 47px;
+        font-size: 1.4rem;
+        width: 363px;
+        padding-left: 44px;
+        border-radius: 0.6rem;
+    }
+ 
+
+    .slider1 {
+        height: 422px;
+        width:817px;
+
+    }
+
+    .banner {
+        height: 422px;
+        margin: 0 35px;
+    }
+   
+    .list-movie{
+        width:817px;
+    }
+    .container-main{
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 2rem;
+    }
+    .container-main2{
+        padding-left: 0;
+        padding-top: 2rem;
+        padding-right: 0;
+    }
+    .label1{
+        width: 816px;
+        
+    }
+    .label{
+        
+        font-size: 1.5rem;
+    }
+    .link1{
+        font-size: 1.1rem;
+    }
+    .cell{
+        height: 303px;
+    }
+    .main2{
+        width: 10rem;
+    }
+    .main3{
+        width: 10rem;
+    }
+    .img2{
+        width: 10rem;
+    }
+    .img3{
+        width: 10rem;
+    }
+    .a3{
+        font-size: 1.4rem;
+    }
+    .footer{
+        width:817px;
+        height: 581px;
+    }
+    .container3{
+        width: 805px;
+        padding: 0 14px;
+    }
+    .container4{
+        width: 795px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .logo-section{
+        width:795px;
+    }
+    .generate-outside-the{
+        width: 795px;
+    }
+    .social-icons{
+        gap: 66px;
+        margin-left: 38px;
+    }
+    .links-colum{
+        padding-top: 20px;
+        width: 180px;
+    }
+    .links-colum1{
+        padding-top: 20px;
+        width: 180px;
+        margin-right: 0;
+    }
+    .links-colum2{
+        padding-top: 20px;
+        width: 180px;
+    }
+    .horizontal-container2{
+        width: 717px;
+    }
+    .lookscout-all-rights{
+        width: 717px;
+        font-size: 1.4rem;
+    }
+    html{
+        width: 752px;
+    }
+    body{
+        width: 752px;
+    }
+    .company-logo-icon{
+        width: 272px;
+        height: 62px;
+    }
+.generate-outside-the{
+    font-size: 1.4rem;
+}
+.social-platforms-logo{
+    width: 36px;
+    height: 36px;
+}
+.features2{
+    font-size: 1.4rem;
+line-height: 30px;
+}
+.link{
+    font-size: 1.4rem;
+line-height: 30px;
+}
+}
+@media (min-width:835px) and (max-width:950px) {
+    .nav {
+        width: 933px;
+    
+        height: 200px;
+        margin: 0%;
+        display: block;
+        flex-direction: column;
+        padding: 0;
+        padding-top: 1px;
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .logo1 {
+        height: 62px;
+        width:285px;
+    }
+
+    .extra {
+        /* display: flex; */
+        justify-items: baseline;
+        /* justify-content: center; */
+        padding: 0;
+        width: 933px;
+        padding: 0%;
+        margin: 0;
+        height: 54px;
+    }
+    .nav .mainMenu{
+        margin-left: 9rem;
+        margin-top: 0.5rem;
+    }
+
+    .search {
+        height: 53px;
+        width: 363px;
+        margin-left: 18rem;
+    }
+
+    .img {
+        height: 36px;
+        padding-top: 10px;
+    }
+
+    .search1 {
+        height: 47px;
+        font-size: 1.4rem;
+        width: 363px;
+        padding-left: 44px;
+        border-radius: 0.6rem;
+    }
+ 
+
+    .slider1 {
+        height: 422px;
+        width: 933px;
+
+    }
+
+    .banner {
+        height: 422px;
+        margin: 0 93px;
+    }
+   
+    .list-movie{
+        width: 933px;
+    }
+    .container-main{
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 4rem;
+    }
+    .container-main2{
+        padding-left: 0;
+        padding-top: 2rem;
+        padding-right: 0;
+    }
+    .label1{
+        width: 930px;
+        
+    }
+    .label{
+        
+        font-size: 1.5rem;
+    }
+    .link1{
+        font-size: 1.1rem;
+    }
+    .cell{
+        height: 303px;
+    }
+    .main2{
+        width: 10rem;
+    }
+    .main3{
+        width: 10rem;
+    }
+    .img2{
+        width: 10rem;
+    }
+    .img3{
+        width: 10rem;
+    }
+    .a3{
+        font-size: 1.4rem;
+    }
+    .footer{
+        width: 933px;
+        height: 581px;
+    }
+    .container3{
+        width: 900px;
+        padding: 0 14px;
+    }
+    .container4{
+        width: 900px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .logo-section{
+        width:900px;
+    }
+    .generate-outside-the{
+        width: 895px;
+    }
+    .social-icons{
+        gap: 66px;
+        margin-left: 38px;
+    }
+    .links-colum{
+        padding-top: 20px;
+        width: 180px;
+    }
+    .links-colum1{
+        padding-top: 20px;
+        width: 180px;
+        margin-right: 0;
+    }
+    .links-colum2{
+        padding-top: 20px;
+        width: 180px;
+    }
+    .horizontal-container2{
+        width: 900px;
+    }
+    .lookscout-all-rights{
+        width: 895px;
+        font-size: 1.4rem;
+    }
+    html{
+        width: 933px;
+    }
+    body{
+        width: 933px;
+    }
+    .company-logo-icon{
+        width: 272px;
+        height: 62px;
+    }
+.generate-outside-the{
+    font-size: 1.4rem;
+}
+.social-platforms-logo{
+    width: 36px;
+    height: 36px;
+}
+.features2{
+    font-size: 1.4rem;
+line-height: 30px;
+}
+.link{
+    font-size: 1.4rem;
+line-height: 30px;
+}
+}
+
+@media (max-width: 800px) {
+    .nav {
+        display: flex;
+        justify-content: normal;
+    }
+
+
+    .extra {
+
+        box-sizing: border-box;
+        /* padding-right: 1rem; */
+
+        background: rgb(0, 0, 0);
+        font-family: Arial, sans-serif;
+        color: rgb(255, 255, 255);
+        display: flex;
+
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    nav .mainMenu {
+        /* height: 100vh; */
+        position: fixed;
+        top: 0px;
+        right: 0px;
+        left: 0px;
+        z-index: 10;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: rgb(0, 0, 0);
+        transition: top 1s ease 0s;
+        display: none;
+    }
+
+    nav .mainMenu .closeMenu {
+        display: block;
+        position: absolute;
+        top: 20px;
+        right: 20px;
+    }
+
+    nav .openMenu {
+        display: block;
+    }
+
+    nav .mainMenu li a:hover {
+        background: none;
+        color: rgb(255, 0, 0);
+    }
+
+    .icons i {
+        display: inline-block;
+        padding: 12px;
+    }
+}
+@media (min-width:961px) and (max-width:1024px) {
+    
+    .nav {
+        width: 1007px;
+    
+        height: 160px;
+        margin: 0%;
+        display: flex;
+        padding: 0;
+        padding-top: 1px;
+    }
+
+    .logo {
+        display: flex;
+       
+        justify-content: center;
+    }
+
+    .logo1 {
+        height: 62px;
+        margin-top: -4rem;
+        width:285px;
+    }
+
+    .extra {
+        display: flex;
+        justify-items: baseline;
+       flex-wrap: wrap;
+        width: 1007px;
+        padding: 0%;
+        margin: 0;
+        height: 54px;
+    }
+    .nav .mainMenu{
+        margin-left: -13rem;
+        margin-top: 1.5rem;
+        padding-bottom: 1rem;
+    }
+    .nav .mainMenu li a{
+        font-size: 1.5rem;
+    }
+
+
+    .search {
+        height: 53px;
+        width: 363px;
+        margin-top: -1.9rem;
+        margin-left: 18rem;
+    }
+
+    .img {
+        height: 36px;
+        padding-top: 10px;
+    }
+
+    .search1 {
+        height: 47px;
+        font-size: 1.4rem;
+        width: 363px;
+        padding-left: 44px;
+        border-radius: 0.6rem;
+    }
+ 
+
+    .slider1 {
+        height: 422px;
+        width: 1007px;
+
+    }
+
+    .banner {
+        height: 422px;
+        margin: 0 132px;
+    }
+   
+    .list-movie{
+        width: 1007px;
+    }
+    .container-main{
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 4rem;
+    }
+    .container-main2{
+        padding-left: 0;
+        padding-top: 2rem;
+        padding-right: 0;
+    }
+    .label1{
+        width: 1000px;
+        
+    }
+    .label{
+        
+        font-size: 1.5rem;
+    }
+    .link1{
+        font-size: 1.1rem;
+    }
+    .cell{
+        height: 303px;
+    }
+    .main2{
+        width: 10rem;
+    }
+    .main3{
+        width: 10rem;
+    }
+    .img2{
+        width: 10rem;
+    }
+    .img3{
+        width: 10rem;
+    }
+    .a3{
+        font-size: 1.4rem;
+    }
+    .footer{
+        width: 1007px;
+        height: 581px;
+    }
+    .container3{
+        width: 990px;
+        padding: 0 14px;
+    }
+    .container4{
+        width: 990px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .logo-section{
+        width:990px;
+    }
+    .generate-outside-the{
+        width:980px;
+    }
+    .social-icons{
+        gap: 66px;
+        margin-left: 38px;
+    }
+    .links-colum{
+        padding-top: 20px;
+        width: 180px;
+    }
+    .links-colum1{
+        padding-top: 20px;
+        width: 180px;
+        margin-right: 0;
+    }
+    .links-colum2{
+        padding-top: 20px;
+        width: 180px;
+    }
+    .horizontal-container2{
+        width: 900px;
+    }
+    .lookscout-all-rights{
+        width: 980px;
+        font-size: 1.4rem;
+    }
+    html{
+        width: 1007px;
+    }
+    body{
+        width: 1007px;
+    }
+    .company-logo-icon{
+        width: 272px;
+        height: 62px;
+    }
+.generate-outside-the{
+    font-size: 1.4rem;
+}
+.social-platforms-logo{
+    width: 36px;
+    height: 36px;
+}
+.features2{
+    font-size: 1.4rem;
+line-height: 30px;
+}
+.link{
+    font-size: 1.4rem;
+line-height: 30px;
+}
+}
+@media (min-width:1025px) and (max-width:1239px) {
+    
+    .nav{
+        justify-content: normal;
+        width: 1222px;
+        gap: 20px;
+    }
+    .extra{
+        gap: 15px;
+        display: flex;
+    }
+    .search{
+        margin-top: 6px;
+    }
+    .container-main{
+        padding-top: 3rem;
+    }
+    .slider1{
+        width: 1222px;
+    }
+    .banner{
+        margin: 0 159px;
+    }
+    .list-movie{
+        width: 1222px;
+    }
+    .footer{
+        width: 1222px;
+    }
+    .container3{
+        width: 1200px;
+    }
+}
+@media (min-width:1240px) and (max-width:1366px) {
+    
+    .nav{
+        justify-content: normal;
+        width: 1349px;
+        gap: 70px;
+    }
+    .extra{
+        gap: 70px;
+        display: flex;
+    }
+    .search{
+        margin-top: 6px;
+    }
+    .container-main{
+        padding-top: 3rem;
+    }
+    .slider1{
+        width: 1349px;
+    }
+    .banner{
+        margin: 0 223px;
+    }
+    .list-movie{
+        width: 1349px;
+    }
+    .footer{
+        width: 1349px;
+    }
+}
+@media (min-width:1367px) and (max-width:1440px) {
+    
+    .nav{
+        justify-content: normal;
+        width: 1423px;
+        gap: 100px;
+    }
+    .extra{
+        gap: 100px;
+        display: flex;
+    }
+    .search{
+        margin-top: 6px;
+    }
+    .slider1{
+        width: 1423px;
+    }
+    .banner{
+        margin: 0 260px;
+    }
+    .list-movie{
+        width: 1423px;
+    }
+    .footer{
+        width: 1423px;
+    }
+}
